@@ -31,7 +31,7 @@ Donde:
 
 - \( J \): escala energética de la interacción ferromagnética,
 - \( g \): intensidad del campo transversal cuántico,
-- \( \hat{\sigma}_{i}^{z} \): matriz de Pauli-Z que mide si un espín está en \( \uparrow \) o \( \downarrow \),
+- \$ \hat{\sigma}_{i}^{z} \$: matriz de Pauli-Z que mide si un espín está en \( \uparrow \) o \( \downarrow \),
 - \( \hat{\sigma}_{i}^{x} \): matriz de Pauli-X que representa la posibilidad de cambio de estado \( \left(\uparrow \leftrightarrow \downarrow \right) \).
 
 ---
